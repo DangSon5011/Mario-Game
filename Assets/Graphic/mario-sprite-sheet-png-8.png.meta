@@ -1,0 +1,2115 @@
+fileFormatVersion: 2
+guid: 5669b9f8bbbe84a43a6cf2a57297e425
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mario-sprite-sheet-png-8_0
+    21300002: mario-sprite-sheet-png-8_1
+    21300004: mario-sprite-sheet-png-8_2
+    21300006: mario-sprite-sheet-png-8_3
+    21300008: mario-sprite-sheet-png-8_4
+    21300010: mario-sprite-sheet-png-8_5
+    21300012: mario-sprite-sheet-png-8_6
+    21300014: mario-sprite-sheet-png-8_7
+    21300016: mario-sprite-sheet-png-8_8
+    21300018: mario-sprite-sheet-png-8_9
+    21300020: mario-sprite-sheet-png-8_10
+    21300022: mario-sprite-sheet-png-8_11
+    21300024: mario-sprite-sheet-png-8_12
+    21300026: mario-sprite-sheet-png-8_13
+    21300028: mario-sprite-sheet-png-8_14
+    21300030: mario-sprite-sheet-png-8_15
+    21300032: mario-sprite-sheet-png-8_16
+    21300034: mario-sprite-sheet-png-8_17
+    21300036: mario-sprite-sheet-png-8_18
+    21300038: mario-sprite-sheet-png-8_19
+    21300040: mario-sprite-sheet-png-8_20
+    21300042: mario-sprite-sheet-png-8_21
+    21300044: mario-sprite-sheet-png-8_22
+    21300046: mario-sprite-sheet-png-8_23
+    21300048: mario-sprite-sheet-png-8_24
+    21300050: mario-sprite-sheet-png-8_25
+    21300052: mario-sprite-sheet-png-8_26
+    21300054: mario-sprite-sheet-png-8_27
+    21300056: mario-sprite-sheet-png-8_28
+    21300058: mario-sprite-sheet-png-8_29
+    21300060: mario-sprite-sheet-png-8_30
+    21300062: mario-sprite-sheet-png-8_31
+    21300064: mario-sprite-sheet-png-8_32
+    21300066: mario-sprite-sheet-png-8_33
+    21300068: mario-sprite-sheet-png-8_34
+    21300070: mario-sprite-sheet-png-8_35
+    21300072: mario-sprite-sheet-png-8_36
+    21300074: mario-sprite-sheet-png-8_37
+    21300076: mario-sprite-sheet-png-8_38
+    21300078: mario-sprite-sheet-png-8_39
+    21300080: mario-sprite-sheet-png-8_40
+    21300082: mario-sprite-sheet-png-8_41
+    21300084: mario-sprite-sheet-png-8_42
+    21300086: mario-sprite-sheet-png-8_43
+    21300088: mario-sprite-sheet-png-8_44
+    21300090: mario-sprite-sheet-png-8_45
+    21300092: mario-sprite-sheet-png-8_46
+    21300094: mario-sprite-sheet-png-8_47
+    21300096: mario-sprite-sheet-png-8_48
+    21300098: mario-sprite-sheet-png-8_49
+    21300100: mario-sprite-sheet-png-8_50
+    21300102: mario-sprite-sheet-png-8_51
+    21300104: mario-sprite-sheet-png-8_52
+    21300106: mario-sprite-sheet-png-8_53
+    21300108: mario-sprite-sheet-png-8_54
+    21300110: mario-sprite-sheet-png-8_55
+    21300112: mario-sprite-sheet-png-8_56
+    21300114: mario-sprite-sheet-png-8_57
+    21300116: mario-sprite-sheet-png-8_58
+    21300118: mario-sprite-sheet-png-8_59
+    21300120: mario-sprite-sheet-png-8_60
+    21300122: mario-sprite-sheet-png-8_61
+    21300124: mario-sprite-sheet-png-8_62
+    21300126: mario-sprite-sheet-png-8_63
+    21300128: mario-sprite-sheet-png-8_64
+    21300130: mario-sprite-sheet-png-8_65
+    21300132: mario-sprite-sheet-png-8_66
+    21300134: mario-sprite-sheet-png-8_67
+    21300136: mario-sprite-sheet-png-8_68
+    21300138: mario-sprite-sheet-png-8_69
+    21300140: mario-sprite-sheet-png-8_70
+    21300142: mario-sprite-sheet-png-8_71
+    21300144: mario-sprite-sheet-png-8_72
+    21300146: mario-sprite-sheet-png-8_73
+    21300148: mario-sprite-sheet-png-8_74
+    21300150: mario-sprite-sheet-png-8_75
+    21300152: mario-sprite-sheet-png-8_76
+    21300154: mario-sprite-sheet-png-8_77
+    21300156: mario-sprite-sheet-png-8_78
+    21300158: mario-sprite-sheet-png-8_79
+    21300160: mario-sprite-sheet-png-8_80
+    21300162: mario-sprite-sheet-png-8_81
+    21300164: mario-sprite-sheet-png-8_82
+    21300166: mario-sprite-sheet-png-8_83
+    21300168: mario-sprite-sheet-png-8_84
+    21300170: mario-sprite-sheet-png-8_85
+    21300172: mario-sprite-sheet-png-8_86
+    21300174: mario-sprite-sheet-png-8_87
+    21300176: mario-sprite-sheet-png-8_88
+    21300178: mario-sprite-sheet-png-8_89
+    21300180: mario-sprite-sheet-png-8_90
+    21300182: mario-sprite-sheet-png-8_91
+    21300184: mario-sprite-sheet-png-8_92
+    21300186: mario-sprite-sheet-png-8_93
+    21300188: mario-sprite-sheet-png-8_94
+    21300190: mario-sprite-sheet-png-8_95
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 266
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a2d96bbb2bcb4ca910c510bf07367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 266
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e081dc35ba2734daad66eb1bed803d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 266
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23feb175366b9dd4c8c3191cce8db111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 266
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eb45312eff9d245a58bd9dcc3120c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 266
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42763d54f7aea84469bd3d03757ae8ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 266
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78d1a59423e757458478d2be6cb2770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 266
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc4cd5a632a674aac049f399c30f67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 266
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f75d947831a79946a1df1f10156d623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 266
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8398bb27430bd48a3e7db40082d465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 266
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7801a8966d156d4e8d6460bb132d85f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 266
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45e454c86fb7764598839cff8544019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 266
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf847d26451dd3645bf29d0c708560cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 228
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cb8696ec98d2f4ca0af1ca88e30703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 228
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4217820fc035dbf44936944da9871c87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 228
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9081ea2b3e5ac48b6507fbdc59cfa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 228
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665084ba6108f2d44ab4bfc05a77ec32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 228
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80278250b4446146afd6d0b31450d27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 228
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b46f8eee61cc84686c669db1b3cfc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 228
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f587ae9abc8a3a249b1986f98458cd0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 228
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fd7eb01f529394282dd6d258b2a2d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 228
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50199f22efb98ca46a779bcb77a0de3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 228
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b7033d59ac454eaa0a505e6f0e5a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_22
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 228
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5493ca57b9b688458c8dfcae8fab0e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 228
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3653052dc23f74caed670d274eb9b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 190
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e044dce3cd475e419cfd16e6e1e1c7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 190
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b87666d2138014096a9a0ac3c114fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 190
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb438fdc737ad43a982bd78cff9cf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 190
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e509ea9fd7e18ce4e969f7e00253fd75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 190
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401312cf6fb8b0f428e56978cb0349e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 190
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a0dd72fde79454296ea8abe044c617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 190
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5103ba332b3da4ba5bc092e9c65ad4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 190
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d834402ba924c14eab0053f63dccdfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 190
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5aff2e94f0057448634fb2aa235351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 190
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830b3a0f4e8d3dd41867713ddae677b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_34
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 190
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9143ba50dc0436469346cf96390adfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_35
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 190
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86a4503d1eb45543bc5abc1dbed945c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 152
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6ff8989a25d56418b5ad9f012d7beb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 152
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9b33b6150a07142815bf35b92393e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_38
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 152
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eaeb9d8dc53384eb2b4b7df181913e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 152
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361d77eb76d6f4e4d8acc73e49312bea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 152
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadc8363c7d98534280ee16ee3a61d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_41
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 152
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8a0a47a15ae2549bcdda93cc51f9b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 152
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b223e6d21e66849a26c3fad1cbc3c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_43
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 152
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38e27f7e9d0ae74e8af92dffc773f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 152
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfadd9adbbfa0904090c5590c86c1189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 152
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e9500dda188714a86bc20fa63d8696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 152
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c540a5c74fd5a43b09c0ecba9c9960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_47
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 152
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb02e78baa90a644fa75e0869abbaa9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 114
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809844d73fbd445438bf2ac0a9e7abb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 114
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab54cb228807fa34eb6d341df0616c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c87147d7aee1a458d3b53f35c763c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d41d0bbb84717447897bcef251e9c98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 114
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d665e81a6c0d61f4dba659bc5ab189cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 114
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08828dd5a5a70c045b3769c6963237fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_54
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dffb4e662470d43a292d56426236fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 114
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3404f96108dba43b02b494e47a227b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 114
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa8dac830b2fcc4d9d55d6bb3ea570f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_57
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 114
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d333f4551de4694a989fc3a436dabc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_58
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 114
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108ea76e7b1f50a49b2cc9079e958fbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 114
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b500c078d8d67ba46b9a00807be78c00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae19ebfe8ca642c42a25cef52031b5c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_61
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20489e2209140745a5d1a6fa9f1a1e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_62
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 76
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cc01932463a7f4f8e7097138b5572b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_63
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 76
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6166fa125e191614791aea6ba5164dc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_64
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec63699a74bbf641a6d11518c387e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_65
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 76
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7806824c7250f04fa654e197fd5f84c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_66
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7353b31492d43784a9dbe50b535efa67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_67
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 76
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb36172926cd3c4cb865e41a0aab767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_68
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 76
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcafc8f5007d674583ffe053480a96b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_69
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 76
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a44994fbd3d1240aa3df9daa80cd11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_70
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592eef06cee439428a6691ce424b31d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_71
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 76
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d8f16bbe18c3044919f32302aaa5c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 38
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e42ead1e64fbf4390a1953adc3a5c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280233189c00dd24e9ba5d23ba60cead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_74
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41b9f94ad2f0804fa38585529eb9b11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_75
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 38
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23b27b95709b20489a724b570ae4e15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_76
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 38
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47ea9e0ad4a64347b84ca001466afe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_77
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 38
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5dd8ee8684cd24ea9eb7782f00b9ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_78
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 38
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a192315e78ecbd49bdf7f2f334b8f0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_79
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 38
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91bfdfe32da4c84bac38f29055a858f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_80
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 38
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eabf89a986f024cafceecbe53c3043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_81
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 38
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0f75e38d2081047b518968fafd4c4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_82
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 38
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3fecf1fb454574fa8352ed030632fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 38
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a3bad5886fce34e823da08d08e6991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7bb967bff1df24e907d27f032a2b8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2aa7f08e92cb94a92e4735ccdf0a38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_86
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bc8d863d1b2d1469fe8f8cccf1131f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_87
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6336aa9b4cb018488be475e28ad664e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_88
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347848f9831d87e4d9cb6ebb3c728bd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_89
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cfa665597a41e42a5aa8f456b6d3b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_90
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dd33764f17d4a4c84f80abc2a9e8bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_91
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251c2b686e286e847a8151fc1c6b7a6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_92
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc0265f2256acc42993873981ad33e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_93
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71034e6863ca1014da5601a3dfe05068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_94
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2dab14585bde548a3c0b96acb4b1a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario-sprite-sheet-png-8_95
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50223edbb8360740918e41ec7f93a2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ace10d8576a930245829d9f1631722ef
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
